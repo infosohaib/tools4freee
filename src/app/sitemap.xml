@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://tools4freee.com/</loc>
+        <lastmod>2025-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tools4freee.com/about</loc>
+        <lastmod>2025-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tools4freee.com/contact</loc>
+        <lastmod>2025-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tools4freee.com/privacy-policy</loc>
+        <lastmod>2025-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://tools4freee.com/terms</loc>
+        <lastmod>2025-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Tools -->
+    <url><loc>https://tools4freee.com/number-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/float-number</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/pin-number</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/length-number</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/prime-number</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/wps-number</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/isbn-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/imei-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/asin-number</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/ean-number</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+    <url><loc>https://tools4freee.com/address-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/city-address</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/ip-address</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/coin-address</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/mac-address</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/mac-address-vendor</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+    <url><loc>https://tools4freee.com/password-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/base64-string</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/htpassword-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/bytes-string</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/uuid-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+    <url><loc>https://tools4freee.com/hash-string</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/date-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/time-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/date-and-time-generator</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/hexadecimal-string</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    <url><loc>https://tools4freee.com/secret-key-64-bytes</loc><lastmod>2025-04-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+</urlset>
